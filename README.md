@@ -30,5 +30,5 @@ Esse é um dos primeiros projetos da minha jornada de aprendizado em Python.
 
 A ideia é continuar criando novos projetos e atualizando meu GitHub conforme eu for aprendendo novos conceitos.
 
-📚 **Curso:** Alura — Python
+
 
